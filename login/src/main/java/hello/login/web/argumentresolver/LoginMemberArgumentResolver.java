@@ -1,5 +1,4 @@
 package hello.login.web.argumentresolver;
-git pull origin main --allow-unrelated-histories
 
 import hello.login.domain.member.Member;
 import hello.login.web.SessionConst;
